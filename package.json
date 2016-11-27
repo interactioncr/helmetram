@@ -30,5 +30,8 @@
   "homepage": "https://github.com/interactioncr/helmetram#readme",
   "devDependencies": {
     "semistandard": "^9.1.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.2"
   }
 }
