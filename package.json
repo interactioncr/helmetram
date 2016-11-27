@@ -2,7 +2,7 @@
   "name": "helmetram",
   "version": "1.0.0",
   "description": "Document head manager for single-page-applications (SPA's) built on Node.js.",
-  "main": "index.js",
+  "main": "./lib/helmetram",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/interactioncr/helmetram/issues"
   },
-  "homepage": "https://github.com/interactioncr/helmetram#readme"
+  "homepage": "https://github.com/interactioncr/helmetram#readme",
+  "devDependencies": {
+    "semistandard": "^9.1.0"
+  }
 }
