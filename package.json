@@ -1,6 +1,6 @@
 {
   "name": "helmetram",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Document head manager for single-page-applications (SPA's) built on Node.js.",
   "main": "./lib/helmetram",
   "scripts": {
