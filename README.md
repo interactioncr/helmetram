@@ -4,6 +4,7 @@
 [![Downloads][downloads-image]][npm-url]
 [![Dependency status][david-dm-image]][david-dm-url]
 [![Dev Dependency status][david-dm-dev-image]][david-dm-dev-url]
+[![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg?style=flat-square)](https://github.com/Flet/semistandard)
 
 Document head manager for single-page-applications (SPA's) built on Node.js.
 

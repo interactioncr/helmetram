@@ -1,6 +1,6 @@
 {
   "name": "helmetram",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Document head manager for single-page-applications (SPA's) built on Node.js.",
   "main": "./lib/helmetram",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/interactioncr/helmetram.git"
+    "url": "git+https://github.com/martinschaer/helmetram.git"
   },
   "keywords": [
     "meta",
@@ -22,12 +22,12 @@
     "spa",
     "nitram"
   ],
-  "author": "Martin Schaer <martin@interaction.cr> (http://www.interaction.cr)",
+  "author": "Martin Schaer <martin@schaerweb.com> (http://www.schaerweb.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/interactioncr/helmetram/issues"
+    "url": "https://github.com/martinschaer/helmetram/issues"
   },
-  "homepage": "https://github.com/interactioncr/helmetram#readme",
+  "homepage": "https://github.com/martinschaer/helmetram#readme",
   "devDependencies": {
     "semistandard": "^9.1.0"
   },
